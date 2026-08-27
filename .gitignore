@@ -10,3 +10,5 @@ frontend/.vercel/
 .venv/
 venv/
 backend/*.db
+.vercel
+.env*
