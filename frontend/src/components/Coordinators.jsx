@@ -99,7 +99,7 @@ const Coordinators = () => {
                   </a>
                 ) : (
                   <div className="text-[11px] font-mono text-slate-500 pt-2 border-t border-slate-800">
-                    STUDENT CO-LEAD
+                    III / IT
                   </div>
                 )}
               </div>
